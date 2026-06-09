@@ -17,6 +17,7 @@ The Data Science for Developing Scholars in Down Syndrome Research (DS3) course 
 * [DS3_2026]()
 * [DS3_2025]()
 * [DS3_2024]()
+
 These repositories contain presentations, code, and instructions for the afternoon sessions.
 
 
