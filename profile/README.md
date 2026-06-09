@@ -14,7 +14,9 @@ The Data Science for Developing Scholars in Down Syndrome Research (DS3) course 
 
 
 ## Each edition of the course has an associated repository for the afternoon sessions.
-* [DS3_2026](https://github.com/DS3-Course/DS3_2026)
+### Current edition:  
+* [DS3_2026](https://github.com/DS3-Course/DS3_2026)  
+### Previous editions:  
 * [DS3_2025]()
 * [DS3_2024]()
 
