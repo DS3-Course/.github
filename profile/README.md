@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/DS3 Logo_Stacked.png" alt="DS3 Logo" width="600"/>
+  <img src="assets/DS3_Logo_Horizontal.png" alt="DS3 Logo" width="600"/>
 </p>
 
 # Course Materials for Data Science for Developing Scholars in Down Syndrome Research (DS3)
@@ -14,7 +14,7 @@ The Data Science for Developing Scholars in Down Syndrome Research (DS3) course 
 
 
 ## Each edition of the course has an associated repository for the afternoon sessions.
-* [DS3_2026]()
+* [DS3_2026](https://github.com/DS3-Course/DS3_2026)
 * [DS3_2025]()
 * [DS3_2024]()
 
