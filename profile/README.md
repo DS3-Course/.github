@@ -25,7 +25,7 @@ These repositories contain presentations, code, and instructions for the afterno
 * [DS3_2024](https://github.com/DS3-Course/DS3_2024)
 
 
-***Alternatives to running locally:***  
+## Alternatives to running analyses with R locally:
 [Posit Cloud](https://posit.cloud/)  
 [Cavatica](https://www.cavatica.org/)  
 Apply for [INCLUDE Cloud Credits](https://help.includedcc.org/docs/include-cloud-credits-pilot-program)  
