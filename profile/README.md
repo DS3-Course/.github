@@ -21,8 +21,8 @@ These repositories contain presentations, code, and instructions for the afterno
 ### Current edition:  
 * [DS3_2026](https://github.com/DS3-Course/DS3_2026)  
 ### Previous editions:  
-* [DS3_2025](https://github.com/DS3-Course/DS3_2025)
-* [DS3_2024](https://github.com/DS3-Course/DS3_2024)
+* [DS3_2025](https://github.com/DS3-2025)
+* [DS3_2024](https://github.com/DS3-2024)
 
 
 ## Alternatives to running analyses with R locally:
